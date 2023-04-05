@@ -204,7 +204,7 @@ td,th {
 }
 
 .contact {
-  min-height: 66.5vh;
+  min-height: 71vh;
   display: flex;
   flex-direction: column;
   text-align: center;

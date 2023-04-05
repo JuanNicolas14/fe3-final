@@ -8,7 +8,7 @@ const Favs = () => {
   const {favState, themeState} = useContextGlobal()
 
   return (
-    <div style={{ width: '100vw',minHeight:'64vh', backgroundColor: themeState.bgColor, color: themeState.color}}>
+    <div style={{ width: '100vw',minHeight:'69vh', backgroundColor: themeState.bgColor, color: themeState.color}}>
       <h1>Dentists Favs</h1>
       <div className="card-grid">
         {/* este componente debe consumir los destacados del localStorage */}
